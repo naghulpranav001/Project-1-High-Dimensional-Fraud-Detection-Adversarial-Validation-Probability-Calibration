@@ -1,0 +1,19 @@
+Group,Feature,Feature Type,Mean,Median,Missing Percentage,Most Common Value
+Missed by Both,TransactionAmt,Numerical,152.67623017902815,86.564,0.0,
+Missed by Both,P_emaildomain,Categorical,,,18.414322250639387,gmail.com
+Missed by Both,C1,Numerical,20.5383631713555,2.0,0.0,
+Missed by Both,C13,Numerical,30.489769820971865,3.0,0.0,
+Missed by Both,C5,Numerical,4.198209718670077,0.0,0.0,
+Missed by Both,TransactionDT,Numerical,12433585.782608695,12414388.0,0.0,
+BCE Only Detected,TransactionAmt,Numerical,187.9929945945946,97.0,0.0,
+BCE Only Detected,P_emaildomain,Categorical,,,22.702702702702705,gmail.com
+BCE Only Detected,C1,Numerical,24.502702702702702,1.0,0.0,
+BCE Only Detected,C13,Numerical,20.85945945945946,2.0,0.0,
+BCE Only Detected,C5,Numerical,0.21621621621621623,0.0,0.0,
+BCE Only Detected,TransactionDT,Numerical,12442615.897297297,12422132.0,0.0,
+Detected by Both,TransactionAmt,Numerical,137.5520062240664,55.332,0.0,
+Detected by Both,P_emaildomain,Categorical,,,5.601659751037345,gmail.com
+Detected by Both,C1,Numerical,31.37136929460581,4.0,0.0,
+Detected by Both,C13,Numerical,2.809128630705394,1.0,0.0,
+Detected by Both,C5,Numerical,0.0,0.0,0.0,
+Detected by Both,TransactionDT,Numerical,12430709.354771784,12371886.0,0.0,

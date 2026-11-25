@@ -1,0 +1,43 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Original datasets
+data/
+dataset/
+
+# Exclude reconstructed transaction data
+*.parquet
+results/X_*.pkl
+results/y_*.pkl
+results/verified_reconstruction_backup/
+
+# Environment secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter configuration
+.jupyter/
+
+# Dataset sample artifacts
+results/ablation_y_train_sample.pkl
+results/ablation_y_val_sample.pkl

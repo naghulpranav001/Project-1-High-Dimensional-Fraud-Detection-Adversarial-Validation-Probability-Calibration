@@ -1,0 +1,66 @@
+Period,Browser,Transactions,Fraud Rate
+Training,MISSING,306142,0.021424698342599188
+Training,OTHER,26085,0.09718228867165038
+Training,chrome 62.0,7101,0.03858611463174201
+Training,chrome 63.0,21816,0.06779427942794279
+Training,chrome 63.0 for android,5620,0.11138790035587189
+Training,chrome 64.0,6462,0.09316001238006809
+Training,chrome 64.0 for android,3255,0.16528417818740399
+Training,firefox 57.0,3281,0.05333739713501981
+Training,ie 11.0 for desktop,7370,0.018317503392130258
+Training,mobile safari 11.0,11029,0.0584821833348445
+Training,mobile safari generic,8009,0.10225995754775877
+Training,safari generic,7208,0.02094894561598224
+Period 1,MISSING,14936,0.01620246384574183
+Period 1,OTHER,1897,0.10753821823932525
+Period 1,chrome 62.0,3,0.3333333333333333
+Period 1,chrome 63.0,17,0.0
+Period 1,chrome 63.0 for android,13,0.23076923076923078
+Period 1,chrome 64.0,19,0.2631578947368421
+Period 1,chrome 64.0 for android,13,0.23076923076923078
+Period 1,firefox 57.0,1,0.0
+Period 1,ie 11.0 for desktop,129,0.015503875968992248
+Period 1,mobile safari generic,543,0.11602209944751381
+Period 1,safari generic,146,0.0410958904109589
+Period 2,MISSING,15903,0.02603282399547255
+Period 2,OTHER,851,0.11633372502937721
+Period 2,chrome 62.0,4,0.0
+Period 2,chrome 63.0,18,0.0
+Period 2,chrome 63.0 for android,16,0.25
+Period 2,chrome 64.0,13,0.0
+Period 2,chrome 64.0 for android,15,0.0
+Period 2,firefox 57.0,2,0.0
+Period 2,ie 11.0 for desktop,199,0.02512562814070352
+Period 2,mobile safari 11.0,627,0.07177033492822966
+Period 2,mobile safari generic,55,0.03636363636363636
+Period 2,safari generic,13,0.23076923076923078
+Period 3,MISSING,15718,0.026784578190609493
+Period 3,OTHER,1043,0.11601150527325024
+Period 3,chrome 62.0,9,0.1111111111111111
+Period 3,chrome 63.0,14,0.21428571428571427
+Period 3,chrome 63.0 for android,23,0.34782608695652173
+Period 3,chrome 64.0,14,0.0
+Period 3,chrome 64.0 for android,15,0.13333333333333333
+Period 3,firefox 57.0,7,0.5714285714285714
+Period 3,ie 11.0 for desktop,179,0.0223463687150838
+Period 3,mobile safari 11.0,694,0.04610951008645533
+Period 4,MISSING,15753,0.030660826509236336
+Period 4,OTHER,1192,0.047818791946308725
+Period 4,chrome 62.0,5,0.0
+Period 4,chrome 63.0,6,0.0
+Period 4,chrome 63.0 for android,33,0.21212121212121213
+Period 4,chrome 64.0,11,0.09090909090909091
+Period 4,chrome 64.0 for android,10,0.3
+Period 4,firefox 57.0,2,0.0
+Period 4,ie 11.0 for desktop,191,0.031413612565445025
+Period 4,mobile safari 11.0,513,0.15984405458089668
+Period 5,MISSING,16497,0.03800691034733588
+Period 5,OTHER,439,0.16173120728929385
+Period 5,chrome 62.0,2,0.0
+Period 5,chrome 63.0,5,0.0
+Period 5,chrome 63.0 for android,17,0.11764705882352941
+Period 5,chrome 64.0,18,0.2777777777777778
+Period 5,chrome 64.0 for android,9,0.0
+Period 5,firefox 57.0,1,0.0
+Period 5,ie 11.0 for desktop,168,0.023809523809523808
+Period 5,mobile safari 11.0,560,0.06785714285714285

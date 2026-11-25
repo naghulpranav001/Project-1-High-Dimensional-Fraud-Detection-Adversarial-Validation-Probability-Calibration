@@ -1,0 +1,11 @@
+Feature,Comparison,P-value,Significant at 0.05,Adjusted P-value,Significant After Correction
+TransactionAmt,Missed by Both vs BCE Only Detected,0.2901294408525119,False,0.3626618010656399,False
+C1,Missed by Both vs BCE Only Detected,0.05101643658680698,False,0.07288062369543855,False
+C13,Missed by Both vs BCE Only Detected,0.00014153019010083582,True,0.0002358836501680597,True
+C5,Missed by Both vs BCE Only Detected,1.8288174586285959e-10,True,4.5720436465714893e-10,True
+TransactionDT,Missed by Both vs BCE Only Detected,0.8363852617048596,False,0.8986948167368592,False
+TransactionAmt,Missed by Both vs Detected by Both,2.404295092695665e-07,True,4.80859018539133e-07,True
+C1,Missed by Both vs Detected by Both,2.7058256841749945e-38,True,2.7058256841749942e-37,True
+C13,Missed by Both vs Detected by Both,7.053291609173811e-36,True,3.5266458045869055e-35,True
+C5,Missed by Both vs Detected by Both,1.023527077389333e-34,True,3.4117569246311104e-34,True
+TransactionDT,Missed by Both vs Detected by Both,0.8986948167368592,False,0.8986948167368592,False

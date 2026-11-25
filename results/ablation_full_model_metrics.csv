@@ -1,0 +1,2 @@
+experiment,features,trees,roc_auc,pr_auc,training_time_seconds
+full_model_retrained,441,396,0.8908328587013461,0.53998958866924,45.07
